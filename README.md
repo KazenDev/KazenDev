@@ -38,11 +38,9 @@
 
   ---
 
-  <h3>📊 Mis Estadísticas Gatunas</h3>
+  <h3>📊 Mis Trofeos y Stats</h3>
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KazenDev&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies" />
-  </a>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=KazenDev&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   
   <br><br>
 
