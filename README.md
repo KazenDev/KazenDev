@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://media.giphy.com/media/unQ3IJU2RG7xm/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" />
 
   <h1 align="center">¡Hola, soy KazenDev! 🐱💻</h1>
 
@@ -50,6 +50,6 @@
 
   ---
 
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="100%" height="100" style="object-fit: cover;" />
 
 </div>
