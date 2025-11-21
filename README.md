@@ -40,7 +40,9 @@
 
   <h3>📊 Mis Trofeos y Stats</h3>
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=KazenDev&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=KazenDev&theme=dracula" alt="KazenDev Trophies" />
+  </a>
   
   <br><br>
 
