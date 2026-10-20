@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="190" viewBox="0 0 600 190" fill="none" role="img" aria-label="JDevTools">
+  <defs>
+    <linearGradient id="a01" x1="0" y1="0" x2="598" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#33D5FF" stop-opacity="0.9"/>
+      <stop offset="0.5" stop-color="#1F6FEB" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#33D5FF" stop-opacity="0.15"/>
+    </linearGradient>
+    <radialGradient id="g01" cx="0" cy="0" r="1" gradientTransform="translate(560 10) rotate(120) scale(190 260)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#33D5FF" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#33D5FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="599" height="189" rx="18" fill="#0D1117" stroke="#21262D"/>
+  <rect width="600" height="190" rx="18" fill="url(#g01)"/>
+  <rect x="1" y="1" width="598" height="3" rx="1.5" fill="url(#a01)"/>
+
+  <text x="556" y="46" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="600" letter-spacing="2" fill="#30363D">01</text>
+  <text x="34" y="58" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="27" font-weight="700" letter-spacing="0.3" fill="#FFFFFF">JDevTools</text>
+  <text x="34" y="98" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#8B949E">Desarrollo de plugins para servidores Minecraft.</text>
+  <text x="34" y="124" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#8B949E">Compila y prueba Java sin IDE ni Maven.</text>
+
+  <circle cx="39" cy="162" r="5" fill="#B07219"/>
+  <text x="54" y="166" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="600" letter-spacing="1.2" fill="#8B949E">JAVA</text>
+  <g transform="translate(496 149)">
+    <path d="M8 0.6l2.05 4.15 4.58.67-3.31 3.23.78 4.56L8 11.06l-4.1 2.15.78-4.56L1.37 5.42l4.58-.67L8 .6z" fill="#8B949E" opacity="0.75"/>
+    <text x="20" y="12" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#8B949E">1</text>
+  </g>
+</svg>

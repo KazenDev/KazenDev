@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="112" viewBox="0 0 1280 112" fill="none" role="img" aria-label="Explorar repositorios">
+  <defs>
+    <linearGradient id="cta" x1="0" y1="0" x2="1280" y2="112" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1F6FEB" stop-opacity="0.18"/>
+      <stop offset="0.6" stop-color="#33D5FF" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#0D1117" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1280" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#33D5FF" stop-opacity="0.8"/>
+      <stop offset="0.55" stop-color="#1F6FEB" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#0D1117" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="1279" height="111" rx="18" fill="#0D1117" stroke="#21262D"/>
+  <rect width="1280" height="112" rx="18" fill="url(#cta)"/>
+  <rect x="1" y="1" width="1278" height="3" rx="1.5" fill="url(#line)"/>
+
+  <text x="40" y="46" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="600" letter-spacing="5" fill="#33D5FF">M&#193;S PROYECTOS</text>
+  <text x="40" y="82" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#FFFFFF">Explorar repositorios</text>
+
+  <g transform="translate(1188 44)">
+    <path d="M0 12h28M20 4l8 8-8 8" stroke="#33D5FF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="190" viewBox="0 0 600 190" fill="none" role="img" aria-label="Kyra-Qt">
+  <defs>
+    <linearGradient id="a02" x1="0" y1="0" x2="598" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#33D5FF" stop-opacity="0.9"/>
+      <stop offset="0.5" stop-color="#1F6FEB" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#33D5FF" stop-opacity="0.15"/>
+    </linearGradient>
+    <radialGradient id="g02" cx="0" cy="0" r="1" gradientTransform="translate(560 10) rotate(120) scale(190 260)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#33D5FF" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#33D5FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="599" height="189" rx="18" fill="#0D1117" stroke="#21262D"/>
+  <rect width="600" height="190" rx="18" fill="url(#g02)"/>
+  <rect x="1" y="1" width="598" height="3" rx="1.5" fill="url(#a02)"/>
+
+  <text x="556" y="46" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="600" letter-spacing="2" fill="#30363D">02</text>
+  <text x="34" y="58" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="27" font-weight="700" letter-spacing="0.3" fill="#FFFFFF">Kyra-Qt</text>
+  <text x="34" y="98" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#8B949E">Desktop pet con Live2D construido sobre Qt y C++.</text>
+
+  <circle cx="39" cy="162" r="5" fill="#F34B7D"/>
+  <text x="54" y="166" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="600" letter-spacing="1.2" fill="#8B949E">C++</text>
+  
+</svg>

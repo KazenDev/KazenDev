@@ -1,58 +1,73 @@
 <div align="center">
 
-  <h1 align="center">¡Hola, soy KazenDev! 🐱💻</h1>
+<img src="assets/hero.svg" alt="KazenDev — Full-Stack Developer" width="100%" />
 
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33D5FF&background=00000000&center=true&vCenter=true&width=435&lines=Desarrollador+de+Plugins+PHP;Experto+en+PHP+con+asistencia+IA;Hago+Backends+y+Frontends+con+Next.JS;Amante+de+la+automatización" alt="Typing SVG" />
-  </h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1400&color=33D5FF&center=true&vCenter=true&width=720&height=44&lines=Construyo+backends%2C+bots+y+herramientas;IA+aplicada+con+memoria+local+y+RAG;Plugins+y+redes+para+Minecraft;Automatizar+antes+que+hacerlo+a+mano" alt="KazenDev — backends, bots e IA aplicada" />
 
-  <p>
-     <em>"El código es como un gato: si lo tratas mal, te araña."</em> 😼
-  </p>
+<br/><br/>
 
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" />
-
-  ---
-
-  <h3>🛠️ Mi Stack de Desarrollo</h3>
-  
-  <p>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS" />
-    <img src="https://img.shields.io/badge/PocketMine-MP-222?style=for-the-badge&logo=pocketmine&logoColor=white" alt="PMMP" />
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/GIT-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" />
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  </p>
-
-  ---
-
-  <h3>📊 Mis Trofeos y Stats</h3>
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KazenDev&theme=dracula" alt="KazenDev Trophies" />
-  </a>
-  
-  <br><br>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=KazenDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&ring_color=33D5FF" alt="KazenDev Stats" height="165"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazenDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Langs" height="165"/>
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KazenDev&theme=tokyonight&hide_border=true&fire=33D5FF" alt="KazenDev Streak" />
-  </p>
+<img src="https://img.shields.io/github/followers/KazenDev?style=for-the-badge&logo=github&logoColor=33D5FF&label=SEGUIDORES&labelColor=0D1117&color=1F6FEB" alt="Seguidores en GitHub" />
+<img src="https://komarev.com/ghpvc/?username=KazenDev&style=for-the-badge&label=VISITAS&color=1F6FEB&labelColor=0D1117" alt="Visitas al perfil" />
 
 </div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<h3 align="center">SOBRE MÍ</h3>
+
+<p align="center">
+Desarrollador full-stack. Diseño y construyo producto propio: backends, bots e IA aplicada.
+Trabajo sobre todo en TypeScript, Java y C++, y llevo años dentro del ecosistema de Minecraft
+— plugins, proxies y servidores.
+</p>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<h3 align="center">TRAYECTORIA</h3>
+
+<p align="center">
+  <a href="https://www.hidencloud.com"><img src="assets/exp-hidencloud.svg" width="48%" alt="HidenCloud — Ex Senior Support" /></a>
+  <a href="https://netherhost.cc"><img src="assets/exp-netherhost.svg" width="48%" alt="Nether Hosting — Ex Staff" /></a>
+</p>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<h3 align="center">STACK</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,java,py,cpp,php,js&theme=dark&perline=6" alt="TypeScript, Java, Python, C++, PHP, JavaScript" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,react,mysql,docker,git,linux,godot&theme=dark&perline=8" alt="Next.js, Node.js, React, MySQL, Docker, Git, Linux, Godot" />
+</p>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<h3 align="center">PROYECTOS</h3>
+
+<p align="center">
+  <a href="https://github.com/KazenDev/JDevTools"><img src="assets/card-jdevtools.svg" width="48%" alt="JDevTools" /></a>
+  <a href="https://github.com/KazenDev/Kyra-Qt"><img src="assets/card-kyra.svg" width="48%" alt="Kyra-Qt" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/KazenDev?tab=repositories"><img src="assets/cta.svg" width="97.6%" alt="Explorar repositorios" /></a>
+</p>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<h3 align="center">CONTACTO</h3>
+
+<p align="center">
+  <a href="https://github.com/KazenDev"><img src="https://img.shields.io/badge/GitHub-KazenDev-0D1117?style=for-the-badge&logo=github&logoColor=33D5FF&labelColor=161B22" alt="GitHub" /></a>
+  <a href="https://github.com/KazenDev?tab=repositories"><img src="https://img.shields.io/badge/Repositorios-Ver-0D1117?style=for-the-badge&logo=git&logoColor=33D5FF&labelColor=161B22" alt="Repositorios" /></a>
+  <a href="https://www.hidencloud.com"><img src="https://img.shields.io/badge/HidenCloud-Web-0D1117?style=for-the-badge&logo=googlechrome&logoColor=33D5FF&labelColor=161B22" alt="HidenCloud" /></a>
+  <img src="https://img.shields.io/badge/ABIERTO-A%20PROYECTOS-1F6FEB?style=for-the-badge" alt="Abierto a proyectos" />
+</p>
+
+<p align="center">
+  <sub>Disponible para colaboraciones, plugins a medida y desarrollo freelance.</sub>
+</p>
+
+<a href="https://github.com/KazenDev"><img src="assets/footer.svg" width="100%" alt="¿Construimos algo?" /></a>
