@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="KazenDev — Full-Stack Developer" width="100%" />
+<img src="assets/hero.svg" alt="zKazen — Full-Stack Developer" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1400&color=33D5FF&center=true&vCenter=true&width=720&height=44&lines=Construyo+backends%2C+bots+y+herramientas;IA+aplicada+con+memoria+local+y+RAG;Plugins+y+redes+para+Minecraft;Automatizar+antes+que+hacerlo+a+mano" alt="KazenDev — backends, bots e IA aplicada" />
+<img src="assets/typing.svg" alt="Construyo backends, bots y herramientas" width="100%" />
 
 <br/><br/>
 
@@ -53,6 +53,14 @@ Trabajo sobre todo en TypeScript, Java y C++, y llevo años dentro del ecosistem
 
 <p align="center">
   <a href="https://github.com/KazenDev?tab=repositories"><img src="assets/cta.svg" width="97.6%" alt="Explorar repositorios" /></a>
+</p>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<h3 align="center">ACTIVIDAD</h3>
+
+<p align="center">
+  <img src="assets/activity.svg" width="100%" alt="Contribuciones de los últimos 12 meses" />
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
