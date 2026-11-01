@@ -1,0 +1,8 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'>
+  <title>Vamps Club</title>
+  <defs><linearGradient id='g' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#ff3b3b'/><stop offset='.55' stop-color='#d10a0a'/><stop offset='1' stop-color='#7a0606'/></linearGradient></defs>
+  <rect width='512' height='512' rx='104' fill='#0a0a0a'/>
+  <g transform='translate(256 256) scale(0.86) translate(-256 -252)'>
+    <path fill='url(#g)' d='M158.4 450 147.5 439.1 116.4 54H219L229.6 274.7L230.4 364.7H237.3L351.5 54L426.7 92.1L265.7 443.6ZM179.9 118.3 85.3 95.3 91.7 54H263.6L255.9 100.5ZM363.2 118.3 291.5 100.5 299.1 54H419.9L426.7 92.1Z'/>
+  </g>
+</svg>

@@ -27,6 +27,9 @@ jobs:
             exit 1
           fi
 
+      - name: Instalar fontTools
+        run: pip install fonttools
+
       - name: Regenerar panel
         env:
           GH_TOKEN: ${{ secrets.ACTIVITY_TOKEN }}
