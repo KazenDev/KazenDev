@@ -219,7 +219,7 @@ def cat(svg: Svg, t: dict, ox: float, oy: float, px: float, asleep=False) -> Non
 # ---------------------------------------------------------------- piezas
 
 def hero(t: dict) -> Svg:
-    s = Svg(1280, 430, "zKazen, desarrollador full-stack")
+    s = Svg(1280, 476, "zKazen, desarrollador full-stack")
     card(s, t)
     x = 76
     s.text(x, 112, "hola, soy", MONO, 400, 24, t["muted"])
@@ -232,10 +232,15 @@ def hero(t: dict) -> Svg:
     )
     for i, line in enumerate(wrap("Desarrollador full-stack. Hago backends, bots, webs y plugins para Minecraft.", SANS, 400, 32, 760)):
         s.text(x, 290 + i * 44, line, SANS, 400, 32, t["muted"])
-    stack = ["typescript", "java", "c++", "python", "php", "react", "node", "docker", "godot"]
-    s.text(x, 380, "  ".join(stack), MONO, 400, 19, t["faint"])
+    # Logos de devicon (MIT), uno al lado del otro.
+    size, gap = 44, 18
+    for i, name in enumerate(STACK_ICONS):
+        s.add(
+            f'<image x="{x + i * (size + gap)}" y="{s.h - 64 - size}" width="{size}" height="{size}" '
+            f'preserveAspectRatio="xMidYMid meet" href="{_logo("stack/" + name + ".svg")}"/>'
+        )
     px = 12
-    cat(s, t, 1280 - 76 - 20 * px, 430 - 30 - 19 * px, px)
+    cat(s, t, 1280 - 76 - 20 * px, s.h - 56 - 19 * px, px)
     return s
 
 
@@ -330,6 +335,8 @@ def footer(t: dict) -> Svg:
 
 
 # ---------------------------------------------------------------- datos
+
+STACK_ICONS = ["typescript", "java", "cplusplus", "python", "php", "react", "nodejs", "docker", "godot"]
 
 JOBS = [
     {"slug": "vampsclub", "name": "Vamps Club", "role": "Desarrollador web", "site": "vampsclub.shop",
