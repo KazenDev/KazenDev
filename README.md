@@ -1,4 +1,4 @@
-<img src="assets/hero.svg" width="100%" alt="zKazen. Desarrollador full-stack: backends, bots, webs y plugins para Minecraft. TypeScript, Java, C++, Python, PHP, React, Node.js, Docker y Godot.">
+<img src="assets/hero.svg?v=2" width="100%" alt="zKazen. Desarrollador full-stack: backends, bots, webs y plugins para Minecraft. TypeScript, Java, C++, Python, PHP, React, Node.js, Docker y Godot.">
 
 <img src="assets/h-trayectoria.svg" width="100%" alt="Trayectoria">
 
